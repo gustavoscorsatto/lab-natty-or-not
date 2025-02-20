@@ -1,5 +1,5 @@
-# Título do Projeto Extremamente Aesthetic ;)
-CRIAÇÃO PRIMEIRO AVATAR VIRTUAL
+ESSE AVATAR É NATY OR NOT?
+
 
 ## 📒 Descrição
 Esse é uma avatar que busca fazer uma imitação que possa confundir se o video é real ou feito por Inteligência Artificial
